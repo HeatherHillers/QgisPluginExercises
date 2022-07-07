@@ -11,3 +11,6 @@ For each directory:
   - in the solution directory you will find the finished plugin.  Compare my code to yours.
   - Read the discussion text, where I will add some comments to the plugin.
   
+## Getting Help
+
+If you have any questions, you can submit them as an Issue on this github site and I'll answer them if I can.  
